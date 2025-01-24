@@ -1,7 +1,6 @@
 ---
-plugin: netbox.netbox.nb_inventory
-netbox_url: https://192.168.0.82
-netbox_token: bb5ae3f2b41ab0cde15d434a6308651629b47cb5
+netbox_url: http://192.168.1.178:8000
+netbox_token: 205ae3d78a1fb30a6fddbdaf9f6e6a3cead9be7d
 validate_certs: false
 config_context: false
 group_by:
