@@ -1,0 +1,9 @@
+---
+plugin: netbox.netbox.nb_inventory
+netbox_url: https://192.168.0.82
+netbox_token: bb5ae3f2b41ab0cde15d434a6308651629b47cb5
+validate_certs: false
+config_context: false
+group_by:
+ - sites
+ - device_types
