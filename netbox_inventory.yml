@@ -7,6 +7,3 @@ config_context: True
 group_by:
  - sites
  - device_types
- - manufacturers
- - device_roles
- - platform
