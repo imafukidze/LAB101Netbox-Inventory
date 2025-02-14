@@ -8,4 +8,4 @@ group_by:
  - sites
  - device_types
  - device_roles
- - device_manufactures
+ - decive_manufacturers
