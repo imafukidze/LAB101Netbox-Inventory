@@ -7,3 +7,4 @@ config_context: True
 group_by:
  - sites
  - device_types
+ - device_roles
