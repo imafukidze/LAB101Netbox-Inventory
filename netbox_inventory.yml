@@ -1,5 +1,5 @@
 ---
-plugin: netbox.netbox.nb_inventory
+plugin: netbox.netbox.netbox_inventory
 api_endpoint: http://192.168.1.178:8000
 token: 205ae3d78a1fb30a6fddbdaf9f6e6a3cead9be7d
 validate_certs: false
